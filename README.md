@@ -1,5 +1,5 @@
 # SNUS_WQAI_Project
-This is the project work under Womanium Quantum+AI 2024 program 
+This is the project work under Womanium Quantum+AI 2024 program  
 In this experiment we will explore utility scale work by simulating the dynamics of a large Heisenberg spin chain. The goal is to measure the dynamics of $Z_i$ for a given site as a function of time and external field $h$ for two different phases of the spin chain.
 
 This lab will be broken into sections matching the Qiskit Patterns framework which include the following steps:
